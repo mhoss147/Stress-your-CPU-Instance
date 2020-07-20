@@ -17,7 +17,9 @@ sudo yum install stress -y
 
 - stress the cpu
 
-sudo stress --cpu 2 --timeout 30000       (2 == number of cpu i have, 30000 == timeout seconds)
+sudo stress --cpu 2 --timeout 30000           
+
+(2 == number of cpu i have, 30000 == timeout seconds)
 
 
 
